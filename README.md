@@ -1,6 +1,3 @@
-# Oi, eu sou a Amanda.
-
-Desenvolvedora front-end. Desenvolvo projetos com foco em funcionalidades e interface.
 
 ## Tecnologias
 <p align="left">
