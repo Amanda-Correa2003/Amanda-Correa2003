@@ -1,8 +1,8 @@
-# Oi, eu sou a Amanda.
+# Oi, eu sou a Amanda!
 
 Desenvolvedora front-end. Desenvolvo projetos com foco em funcionalidades e interface.
 
-## Tecnologias
+## Tecnologias mais utilizadas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,css,tailwind" />
 </p>
