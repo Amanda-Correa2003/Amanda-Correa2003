@@ -1,4 +1,13 @@
-## Hi there 👋
+# Oi, eu sou a Amanda.
+
+Desenvolvedora front-end. Desenvolvo projetos com foco em funcionalidades e interface.
+
+## Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,css,tailwind" />
+</p>
+
+
 
 <!--
 **Amanda-Correa2003/Amanda-Correa2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
