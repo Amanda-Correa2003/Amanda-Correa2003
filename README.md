@@ -2,7 +2,7 @@
 
 Desenvolvedora front-end. Desenvolvo projetos com foco em funcionalidades e interface.
 
-## Tecnologias mais utilizadas
+## Tecnologias 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,css,tailwind" />
 </p>
