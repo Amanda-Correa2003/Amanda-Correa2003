@@ -1,11 +1,10 @@
 ## Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
 
 > **Desenvolvedora Front-end** focada na criação de **landing pages de alta conversão** e **sistemas de e-commerce**. 
-> Especialista em transformar layouts em **interfaces modernas, funcionais e de alta performance** utilizando **React**, **TypeScript** e **Tailwind CSS**.
-
+> Especialista em transformar layouts em **interfaces modernas, funcionais e de alta performance** utilizando **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** e **Tailwind CSS**.
 
 
 <p align="center">
