@@ -27,7 +27,7 @@
       <div style="font-size: 14px;">⋆⭒˚. ⋆⭒˚.⋆</div>
     </td>
     <td align="center" valign="middle" width="50%">
-      <!-- Sua imagem principal no meio -->
+      <!-- imagem meio -->
       <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350" />
     </td>
     <td align="center" valign="middle" width="25%">
