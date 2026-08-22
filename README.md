@@ -7,7 +7,7 @@ Desenvolvedora Front-end focada em construir landing pages de alta conversão e 
 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 </p>
 
 
