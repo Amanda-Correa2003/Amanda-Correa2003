@@ -26,7 +26,3 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanda-Correa2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Correa2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages" />
-</p>
