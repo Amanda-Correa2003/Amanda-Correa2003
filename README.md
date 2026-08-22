@@ -14,39 +14,16 @@
 
     
 
+
+
+
+
+
 <br>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="middle" width="25%">
-      <!-- Lado Esquerdo -->
-      <div style="font-size: 14px;">⋆⭒˚. ⋆⭒˚.⋆</div>
-      <br>
-      <img src="https://raw.githubusercontent.com/Minitals/Minitals/main/assets/cat-typing.gif" width="120" />
-      <br>
-      <div style="font-size: 14px;">⋆⭒˚. ⋆⭒˚.⋆</div>
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <!-- imagem meio -->
-      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350" />
-    </td>
-    <td align="center" valign="middle" width="25%">
-      <!-- Lado Direito -->
-      <div style="font-size: 14px;">⋆⭒˚. ⋆⭒˚.⋆</div>
-      <br>
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="120" />
-      <br>
-      <div style="font-size: 14px;">⋆⭒˚. ⋆⭒˚.⋆</div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-
-   
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" style="max-width: 100%;" />
+</p>
 
 
 
