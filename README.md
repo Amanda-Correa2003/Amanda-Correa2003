@@ -17,15 +17,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" />
 </p>
 
-      <img src="https://raw.githubusercontent.com/Minitals/Minitals/main/assets/cat-typing.gif" width="120" />
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <!-- Sua imagem principal compactada -->
-      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350" />
-    </td>
-    <td align="center" valign="middle" width="25%">
-      <!-- Lado Direito: Outra animação temática (ex: xícara de café fumegando ou foguete) -->
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="120" />
-    </td>
-  </tr>
-</table>
+    
