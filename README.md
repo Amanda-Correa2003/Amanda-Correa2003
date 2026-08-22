@@ -11,7 +11,7 @@
   Desenvolvedora Front-end focada na criação de <strong>landing pages de alta conversão</strong> e <strong>sistemas de e-commerce</strong>. Especialista em transformar layouts em <strong>interfaces modernas, funcionais e de alta performance</strong> utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>Tailwind CSS</strong>.
 </div>
 
-
+<div style="font-size: 14px; text-align:center;">⋆⭒˚. ⋆⭒˚.⋆</div>
 <br>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 </p>
  
+<br/>
 
-
-
+<div style="font-size: 14px; text-align: center;">⋆⭒˚. ⋆⭒˚.⋆</div>
 
 
 
