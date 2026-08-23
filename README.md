@@ -1,4 +1,4 @@
-##Front-End Developer | React • TypeScript • Tailwind ⋆˙⟡⋆˙⟡⋆˙⟡
+## Front-End Developer | React • TypeScript • Tailwind ⋆˙⟡⋆˙⟡⋆˙⟡
 <p align="left">
 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" width="280" />
