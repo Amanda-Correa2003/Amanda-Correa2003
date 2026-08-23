@@ -8,8 +8,7 @@
 
 
 <div style="font-size: 26px; font-weight: 500; line-height: 1.4;">
-  Desenvolvedora Front-end focada na criação de <strong>landing pages de alta conversão</strong> e <strong>sistemas de e-commerce</strong>. Especialista em transformar layouts em <strong>interfaces modernas, funcionais e de alta performance</strong> utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>Tailwind CSS</strong>.
-  ⋆⭒˚.⋆ ⋆⭒˚.⋆
+  Desenvolvedora Front-end focada na criação de <strong>landing pages de alta conversão</strong> e <strong>sistemas de e-commerce</strong>. Especialista em transformar layouts em <strong>interfaces modernas, funcionais e de alta performance</strong> utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong> e <strong>Tailwind CSS</strong>. ☕︎
 </div>
 
 
