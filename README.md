@@ -23,7 +23,7 @@
 
 [Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amanda-Correa2003&show_icons=true&theme=tokyonight)
 
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amanda-Correa2003&show_icons=true&theme=tokyonight)
 
 
 
