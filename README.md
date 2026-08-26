@@ -30,3 +30,4 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Amanda-Correa2003&theme=tokyonight)
 
+![Troféus](https://github-profile-trophy.vercel.app/?username=Amanda-Correa2003&theme=tokyonight&column=4)
