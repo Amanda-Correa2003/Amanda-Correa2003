@@ -30,4 +30,4 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Amanda-Correa2003&theme=tokyonight)
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=Amanda-Correa2003&theme=tokyonight&column=4)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white)
