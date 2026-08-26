@@ -30,4 +30,4 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Amanda-Correa2003&theme=tokyonight)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Correa2003&theme=tokyonight)
