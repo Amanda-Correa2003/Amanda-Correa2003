@@ -21,7 +21,6 @@
 
 <br/>
 
-![Linguagens mais usadas](https://github-readme-stats-zeta-amber-15.vercel.app/api/top-langs/?username=Amanda-Correa2003&layout=compact&theme=tokyonight)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,6 +31,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+![Linguagens mais usadas](https://github-readme-stats-zeta-amber-15.vercel.app/api/top-langs/?username=Amanda-Correa2003&layout=compact&theme=tokyonight)
+
+
 ![Streak](https://streak-stats.demolab.com/?user=Amanda-Correa2003&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amanda-Correa2003&theme=tokyonight)
