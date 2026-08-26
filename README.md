@@ -28,5 +28,5 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-
+![Streak](https://streak-stats.demolab.com/?user=Amanda-Correa2003&theme=tokyonight)
 
