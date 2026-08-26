@@ -1,4 +1,4 @@
-## Front-End Developer | React • TypeScript • Tailwind ⋆˙⟡⋆˙⟡⋆˙⟡
+## Front-End Developer | React • TypeScript • Tailwind ⋆˙⟡⋆˙⟡⋆˙⟡ ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white)
 <p align="left">
 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" width="280" />
