@@ -37,6 +37,3 @@
 ![Linguagens mais usadas](https://github-readme-stats-zeta-amber-15.vercel.app/api/top-langs/?username=Amanda-Correa2003&layout=compact&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Amanda-Correa2003&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=Amanda-Correa2003&theme=tokyonight)
-
