@@ -8,6 +8,9 @@
 
 <div style="font-size: 26px; font-weight: 500; line-height: 1.4;">
   Desenvolvedora Front-end especializada em <strong>React</strong> e <strong>TypeScript</strong>, com experiência na construção de <strong>interfaces modernas, responsivas</strong> e integração com <strong>APIs</strong>. ☕︎
+Portfolio: https://portfolio-flame-three-18.vercel.app/
+
+  
 </div>
 
 
